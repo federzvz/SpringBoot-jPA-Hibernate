@@ -80,7 +80,7 @@ public class EmployeController {
     /**
      * Actualizar/Modificar empleado según el ID.
      * @param employeeid Corresponde al ID autoincremental de la base de datos.
-     * @param employee Objeto del empleado con los campos modificados.
+     * @param employee Objeto empleado con los campos modificados.
      * @return retorna el Objeto con sus datos modificados.
      */
     @PutMapping("/{id}")
