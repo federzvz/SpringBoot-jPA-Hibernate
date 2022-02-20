@@ -1,6 +1,5 @@
 package com.javatechnolessons.demo.controller;
 
-import com.javatechnolessons.demo.model.Employee;
 import com.javatechnolessons.demo.model.Project;
 import com.javatechnolessons.demo.repository.IProjectJpaRepository;
 import org.springframework.beans.factory.annotation.Autowired;
